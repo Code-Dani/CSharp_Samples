@@ -3,6 +3,7 @@
 namespace IF_compatto
 {
     //operatore condizionale ?
+    //DOC: https://docs.microsoft.com/it-it/dotnet/csharp/language-reference/operators/conditional-operator#:~:text=%20Operatore%20%3F%3A%20%28Riferimenti%20per%20C%23%29%3F%3A%20operator%20%28C%23,degli%20operatori%0AOperator%20overloadability.%20Un%20tipo%20definito...%20More%20
     class Program
     {
         static void Main(string[] args)
