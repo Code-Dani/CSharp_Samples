@@ -33,7 +33,6 @@ namespace IF_compatto
                 Console.WriteLine("String = " + s1);
                 Console.WriteLine(s1 == "ciao" ? "Equal to 'ciao'" : "NOT equal to 'ciao'");
             }
-
         }
     }
 }

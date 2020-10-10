@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRequest_API_with_Authentication", "WebRequest_API_with_Authentication\WebRequest_API_with_Authentication.csproj", "{A52F1F3B-A6BA-4B3C-B6B5-BF03E31A68F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF_compatto", "IF_compatto\IF_compatto.csproj", "{A7EB793A-31F1-4AA5-9E99-0D570A11F30C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IF_compatto", "IF_compatto\IF_compatto.csproj", "{A7EB793A-31F1-4AA5-9E99-0D570A11F30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do query using a URL", "Do query using a URL\Do query using a URL.csproj", "{A4E7B47C-57C0-4950-A929-03A7D6706E96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A7EB793A-31F1-4AA5-9E99-0D570A11F30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7EB793A-31F1-4AA5-9E99-0D570A11F30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7EB793A-31F1-4AA5-9E99-0D570A11F30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E7B47C-57C0-4950-A929-03A7D6706E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E7B47C-57C0-4950-A929-03A7D6706E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E7B47C-57C0-4950-A929-03A7D6706E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E7B47C-57C0-4950-A929-03A7D6706E96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
